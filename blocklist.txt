@@ -1,0 +1,13 @@
+! Title: ultile - Comment Blocklist
+! Expires: 5 day
+! Issue tracker: https://github.com/ultile/Comments-Blocklist
+! Homepage: https://github.com/ultile/Comments-Blocklist
+! Description: Blocklist for useless comment sections, some more easier to get rid of.
+! Total number of network filters: 4
+! Version: 20240308
+
+
+||disqus.com^$third-party,important
+||disquscdn.com^$third-party,important
+###disqus_thread
+||connect.facebook.net^
