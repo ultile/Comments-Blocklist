@@ -1,0 +1,8 @@
+! Title: ultile - other Comment Blocklist
+! Expires: 5 day
+! Issue tracker: https://github.com/ultile/Comments-Blocklist
+! Homepage: https://github.com/ultile/Comments-Blocklist
+! Description: Will block as much retail site comment sections!
+! Total number of network filters: 0
+! Total number of Cosmetic filters: 0
+! Version: 20240312

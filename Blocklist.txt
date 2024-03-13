@@ -1,0 +1,28 @@
+! Title: ultile - Comment Blocklist
+! Expires: 5 day
+! Issue tracker: https://github.com/ultile/Comments-Blocklist
+! Homepage: https://github.com/ultile/Comments-Blocklist
+! Description: All lists combined, THIS MAY BREAK SITES YOU USE!
+! Total number of network filters: 14
+! Total number of Cosmetic filters: 1
+! Version: 20240312
+
+||disqus.com^$third-party,important
+||disquscdn.com^$third-party,important
+###disqus_thread
+||connect.facebook.net^
+# ||nytimes.com/svc/community/V3/requestHandler?*GetCommentSummary^
+||nytimes.com/*/requestHandler?*GetCommentSummary^
+# ||nytimes.com/vi-assets/static-assets/comments-d0e6dcd2ecf8a4834693.js
+||nytimes.com/*/comments-d0e6dcd2ecf8a4834693.js
+||meter-svc.nytimes.com^
+||redditstatic.com/shreddit/*/comment-forest-client-js-9d7d9c0b.js
+||reddit.com/svc/shreddit/comments^
+||redditstatic.com/shreddit/*/shreddit-comment-share-button-f34558e9.js
+||redditstatic.com/shreddit/*/comments-5abc8944.js
+||redditstatic.com/shreddit/*/icon-comments-e4a4ebe6.js
+||redditstatic.com/shreddit/*/shreddit-comments-page-ad-64b321a2.js
+||redditstatic.com/shreddit/*/comment-body-header-0053813c.js
+||redditstatic.com/shreddit/*/comment-composer-host-869ab652.js
+||redditstatic.com/shreddit/*/commentsPage-9ee3b8d1.js
+||reddit.com/*/shreddit/events
