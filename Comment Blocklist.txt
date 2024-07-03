@@ -2,12 +2,15 @@
 ! Expires: 5 day
 ! Issue tracker: https://github.com/ultile/Comments-Blocklist
 ! Homepage: https://github.com/ultile/Comments-Blocklist
-! Description: Important to use this one, will block as much third-parties!
-! Total number of network filters: 4
+! Description: Important to use this one, will block as much third-parties as I find!
+! Total number of network filters: 6
 ! Total number of Cosmetic filters: 1
-! Version: 20240312
+! Version: 20240703
 
 ||disqus.com^$third-party,important
 ||disquscdn.com^$third-party,important
 ###disqus_thread
-||connect.facebook.net^
+||connect.facebook.net^$important
+||comments.mangabuddy.com^
+||meter-svc.nytimes.com^
+||tokyo-cdn.com/*/comment^
