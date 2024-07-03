@@ -5,10 +5,14 @@
 ! Description: Will block as much news sites comment sections!
 ! Total number of network filters: 3
 ! Total number of Cosmetic filters: 0
-! Version: 20240312
+! Version: 20240703
 
 # ||nytimes.com/svc/community/V3/requestHandler?*GetCommentSummary^
 ||nytimes.com/*/requestHandler?*GetCommentSummary^
 # ||nytimes.com/vi-assets/static-assets/comments-d0e6dcd2ecf8a4834693.js
 ||nytimes.com/*/comments-d0e6dcd2ecf8a4834693.js
 ||meter-svc.nytimes.com^
+||cnn.com/*/cnn-adfuel*
+||cnn.com/*/alerts
+||cnn.io/popularity/popular-hydrated
+||cnn.io/recommendations
