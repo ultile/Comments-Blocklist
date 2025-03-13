@@ -14,3 +14,10 @@
 ||comments.mangabuddy.com^
 ||meter-svc.nytimes.com^
 ||tokyo-cdn.com/*/comment^
+||groups.roblox.com/*/groups/*/wall/posts^
+||api.comick.io/comment^
+||www.wattpad.com/*/comments^
+||bato.to/embeds/comments^
+||www.gamespot.com/*/comments^
+||nepu.to/*/jquery.comment.js
+||cdn-client.medium.com/lite/static/js/PostResponsesContent.*.chunk.js
